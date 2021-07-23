@@ -1,5 +1,5 @@
-# NTU-DSA-2020
-All programming problems in 2020 NTU CSIE DSA (Data Structures and Algorithm) lecture, including PDF file of problem description and my solutions (All Accetped).
+# NTU-DSA-2021
+All programming problems in 2021 NTU CSIE DSA (Data Structures and Algorithm) lecture, including PDF file of problem description and my solutions (All Accetped).
 
 * HW 0 
     * Greatest Common Divisor of Big Intergers 
